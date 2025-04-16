@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi there! I'm [Your Name], a passionate PHP Laravel Developer 🚀
+I'm Christian Carlo Roasa, a passionate PHP Laravel Developer 🚀
 I'm a skilled and driven software developer with 2 years of experience working with PHP and Laravel. Currently, I'm focused on building robust web applications for the manufacturing industry, helping streamline operations, optimize production processes, and improve overall efficiency through tech-driven solutions.
 
 🔧 Tech Stack:
